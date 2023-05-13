@@ -1,5 +1,5 @@
 # REACT-NATIVE
-<a href="url"><img src="https://github.com/Raii-Azevedo/REACT-NATIVE/blob/master/download.png" align="center" height="150" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/REACT-NATIVE/blob/master/download.png" align="center" height="150" width="350" ></a>
  
 ## Descrição
 - Curso e capacitação com React-Native e Projetos realizados.
