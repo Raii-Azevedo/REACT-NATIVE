@@ -18,7 +18,8 @@
 - Modelo 2: [Template](https://github.com/Raii-Azevedo/Template-basico-react-native/blob/main/App.js)
  
 ## Tecnologia
- - PowerBI
+ - React Native
+ - JavaScript
  
 ### Emular App diretamente do celular via USB
 #### Configurando o celular para emular o Aplicativo Native.
