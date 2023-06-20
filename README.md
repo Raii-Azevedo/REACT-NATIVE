@@ -5,7 +5,7 @@
 - Curso e capacitação com React-Native e Projetos realizados.
 
 ## Projetos
-- ![Cookie da Sorte](https://github.com/Raii-Azevedo/biscoito-da-sorte/tree/master)
+- [Cookie da Sorte](https://github.com/Raii-Azevedo/biscoito-da-sorte/tree/master)
 
 
 ## Templates Básicos para React Native
