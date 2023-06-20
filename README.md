@@ -6,6 +6,8 @@
 
 ## Projetos
 - [Cookie da Sorte](https://github.com/Raii-Azevedo/biscoito-da-sorte/tree/master)
+- [Calculadora IMC](https://github.com/Raii-Azevedo/IMC)
+- [Cronômetro](https://github.com/Raii-Azevedo/Cronometro)
 
 
 ## Templates Básicos para React Native
